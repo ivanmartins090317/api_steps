@@ -1,14 +1,14 @@
  [
   { 
-    id: "12346478", 
-    description: "Entender o problema do cliente" 
+    "id": "12346478", 
+    "description": "Entender o problema do cliente" 
   },
   {
-    id: "23344233",
+    "id": "23344233",
     description: "Desenvolver a solução do problema",
   },
   {
-    id: "09989893",
-    description: "Repetir até o cliente ficar feliz e encher seu 🍑 de dinheiro",
+    "id": "09989893",
+    "description": "Repetir até o cliente ficar feliz e encher seu 🍑 de dinheiro",
   },
 ]
