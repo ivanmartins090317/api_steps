@@ -1,4 +1,4 @@
-const steps = [
+ [
   { 
     id: "12346478", 
     description: "Entender o problema do cliente" 
